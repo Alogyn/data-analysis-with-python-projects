@@ -84,4 +84,4 @@ This project is licensed under the MIT License.
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alogyn&show_icons=true&theme=radical)x
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alogyn&show_icons=true&theme=radical)

@@ -82,4 +82,4 @@ Ensure all tests in `test_module.py` pass before submitting the project.
 ---
 
 ## 📝 License
-This project is licensed under the MIT License. 📝x
+This project is licensed under the MIT License. 📝

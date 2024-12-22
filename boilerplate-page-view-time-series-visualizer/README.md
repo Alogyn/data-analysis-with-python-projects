@@ -120,13 +120,13 @@ The dataset contains daily page view counts from the freeCodeCamp forum. The cle
 
 ## 🎥 Example Outputs
 ### Line Plot
-![Line Plot](box_plot.png)
+![Line Plot](line_plot.png)
 
 ### Bar Chart
-![Bar Chart](line_plot.png)
+![Bar Chart](bar_plot.png)
 
 ### Box Plots
-![Box Plots](nar_plot.png)
+![Box Plots](box_plot.png)
 
 ---
 
